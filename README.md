@@ -1,6 +1,4 @@
-# neigong
-
-静下心来，把 iOS 和编程的内功心法搞好，再玩其他的。
+# blog
 
 TODO:
 - ReactiveX 官方文档翻译
